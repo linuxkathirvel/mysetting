@@ -1,0 +1,2 @@
+# Install these packages before install python Pillow
+sudo apt-get install python-dev libjpeg-dev libfreetype6-dev zlib1g-dev
